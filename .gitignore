@@ -1,0 +1,8 @@
+# Ignore editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache if generated locally
+__pycache__/
+*.py[cod]
